@@ -1,0 +1,24 @@
+{
+  "name": "reactnative",
+  "version": "1.0.0",
+  "description": "\"# ReactNative\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navnit0707/ReactNative.git"
+  },
+  "author": "Navnit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navnit0707/ReactNative/issues"
+  },
+  "homepage": "https://github.com/navnit0707/ReactNative#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
